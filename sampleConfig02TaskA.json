@@ -1,0 +1,12 @@
+{
+    "rowNum": 10,
+    "colNum": 10,
+    "weight": "checkered",
+    "entrances": [[0,-1], [-1, 5]],
+    "exits": [[9,-1]],
+    "generator": "recur",
+    "solver": "recur",
+    "solverEntranceIndex": 1,
+    "visualise": true,
+    "fileOutput": "sampleTaskA-2.png"
+}
