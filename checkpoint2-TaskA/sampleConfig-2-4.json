@@ -1,0 +1,13 @@
+{
+    "rowNum": 10,
+    "colNum": 10,
+    "weight": "checkered",
+    "entrances": [[4,-1],[10, 6]],
+    "exits": [[-1,8]],
+    "generator": "kruskal",
+    "solver": "recur",
+    "solverEntranceIndex": 0,
+    "visualise": true,
+    "mazeFromFile": false,
+    "fileOutput": "sampleTaskA-kruskal&recSolver-checkered2.png"
+}

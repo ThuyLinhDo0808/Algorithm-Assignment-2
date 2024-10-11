@@ -1,0 +1,14 @@
+{
+    "rowNum": 5,
+    "colNum": 5,
+    "weight": "checkered",
+    "entrances": [[3,-1]],
+    "exits": [[-1,3]],
+    "generator": "recur",
+    "solver": "dijkstra",
+    "solverEntranceIndex": 0,
+    "visualise": true,
+    "mazeFromFile": true,
+    "mazeFileName": "sampleMaze01.txt",
+    "fileOutput": "sampleTaskA-dijkstra-Maze1.png"
+}
