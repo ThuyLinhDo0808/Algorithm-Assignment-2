@@ -116,7 +116,7 @@ class AStarSolver:
                 break
 
             # Explore neighbors
-            for neighbor in maze.neighbors(curr_cell):
+            for neighbor in maze.neighbours(curr_cell):
                 if neighbor not in blocked_cells and not maze.hasWall(curr_cell, neighbor):
                     new_g = distances[curr_cell] + abs(curr_cell.getWeight() - neighbor.getWeight())
 
