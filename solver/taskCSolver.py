@@ -2,7 +2,7 @@
 # PLEASE UPDATE THIS FILE.
 # Greedy maze solver for all entrance, exit pairs
 #
-# __author__ = <Your Name>
+# __author__ = Linh Thuy Do
 # __copyright__ = 'Copyright 2024, RMIT University'
 # -------------------------------------------------------------------
 
