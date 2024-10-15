@@ -1,12 +1,12 @@
 {
-    "rowNum": 10,
-    "colNum": 10,
+    "rowNum": 5,
+    "colNum": 5,
     "weight": "checkered",
-    "entrances": [[0,-1], [6,-1]],
-    "exits": [[-1, 6], [10,5]],
-    "generator": "recur",
+    "entrances": [[0,-1]],
+    "exits": [[5,4]],
+    "generator": "kruskal",
     "solver": "recur",
     "strategy": "brute-force",
     "visualise": true,
-    "fileOutput": "testTaskB.png"
+    "fileOutput": "testTaskB-1.png"
 }
